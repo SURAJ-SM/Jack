@@ -18,3 +18,6 @@ Writing objects: 100% (3/3), 342 bytes | 342.00 KiB/s, done.
 $ git clone https://github.com/SURAJ-SM/Lab1
 fatal: destination path 'Lab1' already exists and is not an empty directory.
 
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page
+asadddddddddddgdgoidz;'xcvlkjgjcl
+

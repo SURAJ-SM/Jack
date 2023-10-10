@@ -14,3 +14,7 @@ Counting objects: 100% (3/3), done.
 Delta compression using up to 20 threads
 Compressing objects: 100% (2/2), done.
 Writing objects: 100% (3/3), 342 bytes | 342.00 KiB/s, done.
+
+$ git clone https://github.com/SURAJ-SM/Lab1
+fatal: destination path 'Lab1' already exists and is not an empty directory.
+
